@@ -14,3 +14,6 @@ A GPT inside GPTstore that does Insightful and concise discussions on values
 ## Example Chat
 * [Example chat](/examples/Example_chat.pdf)
 * [Example chat 2](/examples/Example_chat2.pdf)
+
+## Coexistancial Philosophy
+* [website link] (https://jeevanvidya.info)
