@@ -1,6 +1,6 @@
 # Wisdom-Guide-GPT
 A GPT inside GPTstore that does Insightful and concise discussions on values
-* [GPT link](https://chat.openai.com/g/g-dervww6AV-wisdom-guide)
+* [GPT link](https://chat.openai.com/g/g-dervww6AV-coexistence-guide)
 <p align="left">
   <img src="/images/screenshot.png" alt="application screenshot" width="600" height="600">
 </p>
