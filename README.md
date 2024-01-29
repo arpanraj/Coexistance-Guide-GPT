@@ -10,6 +10,7 @@ Guiding you through life's journey with insights from the Coexistence Philosophy
 
 ## Knowledge Base
 * [Coexistence Overview](/knowledge/coexistence_overview.pdf)
+* [Coexistence Overview](/knowledge/manavvyavhar.txt)
 
 ## Example Chat
 * [Example chat](/examples/Example_chat.pdf)
