@@ -1,5 +1,5 @@
 # Coexistance-Guide-GPT
-A GPT inside GPTstore that does Insightful and concise discussions on values
+Guiding you through life's journey with insights from the Coexistence Philosophy.
 * [GPT link](https://chat.openai.com/g/g-dervww6AV-coexistence-guide)
 <p align="left">
   <img src="/images/screenshot.png" alt="application screenshot" width="600" height="600">
