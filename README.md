@@ -31,7 +31,7 @@ It does not teach values. It encourages you to discover what they consider valua
 
 ## Evaluation
 <p align="left">
-  <img src="/images/evaluation.jpg" alt="evaluation graph" width="600" height="600">
+  <img src="/images/evaluation.jpg" alt="evaluation graph">
 </p>
 
 * The graph displays average scores for seven question categories based on eight evaluation criteria like relevance, clarity, and critical thinking.
