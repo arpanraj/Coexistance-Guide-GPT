@@ -3,7 +3,7 @@ Guiding you through life's journey with insights from the Coexistence Philosophy
 
 It does not teach values. It encourages you to discover what they consider valuable. Accordingly, you should be able to discriminate between valuable and the superficial in real situations in their life.
 
-* [GPT link](https://chat.openai.com/g/g-dervww6AV-coexistence-guide)
+* [Access the Coexistence Guide GPT here](https://chat.openai.com/g/g-dervww6AV-coexistence-guide)
 
 <p align="left">
   <img src="/images/screenshot.png" alt="application screenshot" width="600" height="600">
@@ -30,6 +30,7 @@ It does not teach values. It encourages you to discover what they consider valua
 * [Example chat 2](/examples/Example_chat2.pdf)
 
 ## Evaluation
+Our evaluations help you understand the quality of responses. The initial stage of measuring response quality may not always accurately reflect the overall quality and effectiveness of the responses, as it may not consider various factors that affect the assessment.
 <p align="left">
   <img src="/images/evaluation.jpg" alt="evaluation graph">
 </p>
