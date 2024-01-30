@@ -29,5 +29,16 @@ It does not teach values. It encourages you to discover what they consider valua
 * [Example chat](/examples/Example_chat.pdf)
 * [Example chat 2](/examples/Example_chat2.pdf)
 
+## Evaluation
+<p align="left">
+  <img src="/images/evaluation.jpg" alt="evaluation graph" width="600" height="600">
+</p>
+
+* The graph displays average scores for seven question categories based on eight evaluation criteria like relevance, clarity, and critical thinking.
+
+* Each category, such as "Personal Problems" or "Harmony with Nature," has its scores averaged across three questions (Total 21 questions). 
+
+* Bars represent these averages, with heights indicating scores (0 to 5). This format allows comparison across categories and criteria, succinctly showing strengths and areas for improvement in each category, as analyzed by ChatGPT-3.5.
+
 ## Coexistence Philosophy
 * [Website link](https://jeevanvidya.info)
